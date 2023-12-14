@@ -1,4 +1,3 @@
-Git is a developer's best friend
-lksdfksj
+Git is a developer's best.
 
 
